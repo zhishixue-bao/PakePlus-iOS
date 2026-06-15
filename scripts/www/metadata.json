@@ -1,0 +1,6 @@
+{
+  "name": "Echo Vault",
+  "description": "An elegant, cryptographic digital legacy and inheritance shrine for protecting memories, wills, and credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
